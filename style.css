@@ -1,0 +1,32 @@
+a{
+margin: 20px;
+text-decoration: none;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+background-color: blanchedalmond;
+text-align: center;
+color: brown;
+}
+
+p{
+text-align: justify;
+
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+body{
+background-color: beige;
+
+}
+
+.artigosprincipais{
+background-color: blanchedalmond;
+
+}
